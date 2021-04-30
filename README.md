@@ -22,4 +22,4 @@ COURSE: Relational Database Management Systems (RDBMS)
 
 FACULTY IN-CHARGES: Assistant Professor Pradnya Bhangale and Assistant Professor Vaibhav Vasani
 
-COLLEGE: K.J. Somaiya College of Engineering, Vidyavihar 
+COLLEGE: K. J. Somaiya College of Engineering, Vidyavihar 
