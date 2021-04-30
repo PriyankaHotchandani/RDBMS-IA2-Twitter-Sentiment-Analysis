@@ -1,6 +1,4 @@
 # RDBMS-IA2-Twitter-Sentiment-Analysis
-Implementation of the research paper 'Evaluation of Deep Learning Techniques in  Sentiment Analysis from Twitter Data' for the IA-2 of Relational Database Management System (RDBMS) 
-
 Sentiment analysis is the automated process of identifying and classifying subjective information in text data. This might be an opinion, a judgment, or a feeling about a particular topic or product feature.
 
 The most common type of sentiment analysis is ‘polarity detection’ and involves classifying statements as positive, negative or neutral. 
