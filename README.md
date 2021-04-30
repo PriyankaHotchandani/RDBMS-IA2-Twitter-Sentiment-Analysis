@@ -9,6 +9,8 @@ Twitter allows businesses to engage personally with consumers. However, there’
 
 That's why sentiment analysis, a tool that automatically monitors emotions in conversations on social media platforms, has become a key instrument in social media marketing strategies.
 
-In this repository, Word2Vec word embedding model has been implemented.
+In this repository, Word2Vec word embedding model has been implemented. To execute, run the Jupyter Notebook and import the dataset. 
 
 Link to Dataset: https://www.kaggle.com/kazanova/sentiment140
+
+# Details
